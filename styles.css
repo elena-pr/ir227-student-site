@@ -1,0 +1,18 @@
+/* Minimal tweaks on top of the Cosmo theme */
+
+.sidebar-item-container .active {
+  font-weight: 600;
+}
+
+main.content {
+  max-width: 850px;
+}
+
+.materials-table td, .materials-table th {
+  vertical-align: middle;
+}
+
+.missing-note {
+  color: #6c757d;
+  font-style: italic;
+}

@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "IR227 Seminars"
+  description: "Seminar slides, worksheets, and case briefings for IR227"
+  page-navigation: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "Weeks"
+    toc-depth: 2
+    smooth-scroll: true
+    anchor-sections: true
