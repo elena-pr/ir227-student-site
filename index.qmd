@@ -73,7 +73,7 @@ don't create a new file.
 Everyone in your case group edits the **same document** — add your section,
 don't create a new file.
 
-- [Open the shared briefing document](TODO-add-shared-doc-link-here)
+- [Open the shared briefing document](https://lsecloud-my.sharepoint.com/:w:/g/personal/e_pro_lse_ac_uk/IQBkoUEjKg-rRalNsIs7YStNAY0v0B5FuG3X_PejQ1P-JRk?e=pgA4wP)
 
 ## Week 04 — Governance Theories {#week-04}
 
