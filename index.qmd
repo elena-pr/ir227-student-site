@@ -8,20 +8,13 @@ and the shared briefing document for your case group.
 Each case briefing document is **shared and editable by everyone at once** —
 please add your group's section rather than starting a new file.
 
-| Week | Topic |
-|:----:|:------|
-| [01](#week-01) | Introduction & Transitions |
-| [02](#week-02) | Policy Process: Streams |
-| [03](#week-03) | Policy Process: Institutions |
-| [04](#week-04) | Governance Theories |
-| [05](#week-05) | Power, Politics & Change |
-| [06](#week-06) | Industrial Welfare State |
-| [07](#week-07) | Environmental Governance |
-| [08](#week-08) | Digital Revolution |
-| [09](#week-09) | Climate Transition |
-| [10](#week-10) | Demographic & Migration |
-| [11](#week-11) | AI & Automation |
-| [12](#week-12) | Synthesis: Polycrisis |
+## Assignments
+
+**In-class assignment** - This exercise builds the analytical skills the final examination rewards, and shows you how an exam question is structured before you sit the exam.
+
+- [Open the assignment document](content/05-power-politics-change/00-formative-exercise.pdf)
+
+
 
 ## Week 01 — Introduction & Transitions {#week-01}
 
@@ -102,12 +95,13 @@ don't create a new file.
 - [Download worksheet (Word)](content/05-power-politics-change/toolkit-integration-worksheets.docx)
 <!-- SYNC:END:week-05 -->
 
-### Case briefing (shared document)
+### In-class assignment
 
-Everyone in your case group edits the **same document** — add your section,
-don't create a new file.
+This exercise builds the analytical skills the final examination rewards,
+and shows you how an exam question is structured before you sit
+the exam.
 
-- [Open the shared briefing document](TODO-add-shared-doc-link-here)
+- [Open the assignment document](content/05-power-politics-change/00-formative-exercise.pdf)
 
 ## Week 06 — Industrial Welfare State {#week-06}
 
