@@ -156,7 +156,7 @@ don't create a new file.
 Everyone in your case group edits the **same document** — add your section,
 don't create a new file.
 
-- [Open the shared briefing document](TODO-add-shared-doc-link-here)
+- [Open the shared briefing document](https://lsecloud-my.sharepoint.com/:w:/g/personal/e_pro_lse_ac_uk/IQAsEKDgAeSdQbtfpIjm7A5ZAT9HqY97aDEIWlhsgysiZo4?e=UE7SeQ)
 
 ## Week 09 — Climate Transition {#week-09}
 
